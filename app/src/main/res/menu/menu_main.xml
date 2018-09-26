@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context="com.csdi.ati.fhapp.video">
+    <item
+        android:id="@+id/action_open"
+        android:icon="@drawable/ic_ondemand_video_black_24dp"
+        android:orderInCategory="100"
+        android:title="Open YouTube App"
+        app:showAsAction="always" />
+</menu>

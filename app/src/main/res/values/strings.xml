@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CSDI</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter an email address and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Add New Item</string>
+    <string name="action_logout">Logout</string>
+    <string name="btn_link_to_register">Not a member? Get registered in FitnessHeal now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtCount">0</string>
+    <string name="strStart">Start</string>
+    <string name="txtSteps">Steps</string>
+    <string name="reset">Reset</string>
+    <string name="strStop">Stop</string>
+
+
+    <string name="slide_1_title">Chat</string>
+    <string name="slide_1_desc">This interface offers the instant exchange of messages which will from one user of the application to another user registered in the database with unique id.</string>
+
+
+    <string name="slide_2_title">Lan Transfer</string>
+    <string name="slide_2_desc">This interface offers all the users of the application, within the range of given hotspot to exchange the documents instantly.</string>
+
+
+    <string name="slide_3_title">Alert</string>
+    <string name="slide_3_desc">This interface offers the security features of instantly transfer the users preferred friend to get information like his current location along with the alert message.</string>
+
+
+    <string name="slide_4_title">Gallery</string>
+    <string name="slide_4_desc">This interface offers the user to exchange any photo clicked from users camera along with uploading and downloading it safely from the server.</string>
+
+
+    <string name="slide_5_title">Video</string>
+    <string name="slide_5_desc">This interface offers the user to retrieve, watch and share videos as per the playlist or according to his wish either on the application interface or on the YouTube interface.</string>
+
+
+    <string name="slide_6_title">About</string>
+    <string name="slide_6_desc">This interface offers the user to know about different application modules of the application and our contact email address.</string>
+
+
+
+
+
+
+
+</resources>
